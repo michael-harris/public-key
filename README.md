@@ -1,6 +1,7 @@
 # public-key
 Public key for encryption / signing
 
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBF4FgNkBEAC0l2D514+s6s4/yAsgn2uFa8gz/NJNtqWLvKq6wouqlx3OGBmT
@@ -110,3 +111,4 @@ x9xMjP7rAyPgYe+1d58nYU4AGqs6E41TgdMqrkOf8gMb9qiXqDvpqDBv06p2zBLE
 /hCtt9O2USUYqr+wvgarL/Z1Fvwj
 =dDZd
 -----END PGP PUBLIC KEY BLOCK-----
+```
