@@ -1,6 +1,7 @@
-# public-key
-Public key for encryption / signing
+# public-keys
+Public key for encryption / signing / authentication
 
+## GPG
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
@@ -111,4 +112,9 @@ x9xMjP7rAyPgYe+1d58nYU4AGqs6E41TgdMqrkOf8gMb9qiXqDvpqDBv06p2zBLE
 /hCtt9O2USUYqr+wvgarL/Z1Fvwj
 =dDZd
 -----END PGP PUBLIC KEY BLOCK-----
+
+## SSH
+```
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCitXLc5HtPvWcgdNlY8vuwoCiGjW8/216YTqjFZwzF+ZheXIUtN4JfpbV3GcpJmSrFpEkTVKSHDP1wYHy653mgW+CCdHfrM2ORVzk1RDrLwQgZgzHX9d9uCaSY7ipP+LVWrKp8WSmOQhaSZWTmERQ8FbU+X/zF2bndNdU6PvyXbWeDAuKhYxMsMCYWXO/aqWjhYorll/3tuLLRGzL+QBQ+xNAfKqkYAhnONmO9Q0Ydf732Y2Uh4M+c5tr0ExtNi09p5y0Qbx45QuqAVfg+vbfhphEW6KIQW9hhCreM9Dc36qRx9BEod7c1loj1LvqFoeoCa0F3hwR1GAYsxi6LWel1oSkbmEES0Gvc/ZLoLBBbn4+klMG+fFPUMj87luUwOAGbJ6IrXKUq+LDYZ3Y9JAbDDM58WTviRHcnixU0HD3VeIJQ/g93fbK1kMSNcB8xndCp/b3qNQ3JedvD4pcuKAlJ+AmK7EZwzAHZGTm7ZcQBXOdMikfpCf3n9Rx4OhrqbPITAAtDjObAdhXKC1RhLn+pEEq/6p85LNv1TIsVOUoC0ej2KhYxnMxLAG93zR777bGHxaG6GCWRoEsspLvyva8knuTutHzA/XOIGNsvo8WBRPZgRadg9oVxCDBD+4gohtY4hCZWoz4pBiOgMYW0YFWWU6OyBHOCJck3D+HmwMH5Hw== openpgp:0xD1F3085B
+```
 ```
